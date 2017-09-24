@@ -1,3 +1,11 @@
+/* 
+
+CSS for the settings area found by clicking on the extensions icon.
+
+Most of this is sadly for the fancy toggle button....
+
+*/
+
 .switch {
     position: relative;
     display: inline-block;
