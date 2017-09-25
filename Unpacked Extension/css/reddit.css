@@ -188,7 +188,7 @@ div.score {
 }
 
 .titlebox .tagline {
-    margin: 5px 0 5px 0
+    margin: 5px 0 5px 0;
 }
 
 #header-img.default-header {
@@ -201,6 +201,26 @@ div.score {
     display: inline-block;
     vertical-align: bottom;
     margin-bottom: 0px;
+}
+
+div.listing-chooser .contents {
+    margin-top: 40px;
+}
+
+div.trending-subreddits .rank-spacer {
+    width: 0px;
+}
+
+div.trending-subreddits .midcol-spacer {
+    width: 0px;
+}
+
+div.trending-subreddits {
+    margin-left: 0px;
+}
+
+div.trending-subreddits .trending-subreddits-content {
+    margin-left: 10px;
 }
 
 
