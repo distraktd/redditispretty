@@ -1,4 +1,4 @@
-# Reddit Is Pretty
+# RedMin
 
 This chrome extension is intended to make reddit look... well frankly, better. Reddit has admirably allowed every subreddit to customize itself which gives the website a very unique look. Whilst some may enjoy the variety when browsing reddit, some like myself, might find it irritating. I'm constantly having to waste time looking for various functionality that some subreddits have moved elsewhere and some might have hidden altogther to improve said subreddit's aesthetic.
 
