@@ -1,0 +1,13 @@
+Apologies that this isn't the standard Chrome extension format but given I myself rarely trust code from the internet I imagine many others don't either. For that reason and the fact that the extension requires the ability to change web pages I have decided to open source the code. This means the extension isn't as straightforward as usual but should still only take 30 seconds or so...
+
+1: 
+Chrome -> Menu (3 Dots) -> More Tools -> Extensions
+
+2: 
+Enable Developer Mode -> Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
+
+3: 
+You should now be able to load what is known as an "Unpacked Extension". This essentially means the files have not been consolidated into the standard Chrome .crx extension file and are easily visible. So now click "Load Unpacked Extension" and point the file dialogue to, you guessed it, the Unpacked Extension folder in this directory. Chrome will then load these files as if they had already been packed into an extension.
+
+4: 
+Browse to Reddit -> Disgusted or hopefully pleasantly suprised by the cleanliness.
