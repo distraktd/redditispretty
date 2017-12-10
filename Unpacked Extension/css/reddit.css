@@ -108,7 +108,7 @@ div.score {
 
 .side:before {
     height: 125px;
-    background: url(/images/rip.png);
+    background: url(/images/redmin.png);
     content: "";
     display: block;
     position: absolute;
