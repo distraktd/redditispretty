@@ -11,3 +11,5 @@ I am very welcoming of both feature and code suggestions, although please note h
 I think thats about it for now, and I will update this file with any relevant information as and when it is required!
 
 -distraktd
+
+NOTE: After Reddit's facelift I put this on hold...
